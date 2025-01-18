@@ -1,4 +1,4 @@
-# workbook2
+# workbook2 https://jiayiqu115.github.io/workbook2/
 
 Particle system initialization: The particle array is used to store the properties of particles. Each particle contains the position (x, y), size (size), and color (color).
 
